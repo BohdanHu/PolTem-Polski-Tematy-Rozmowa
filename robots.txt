@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bohdanhu.github.io/PolTem-Polski-Tematy-Rozmowa//sitemap.xml
+
